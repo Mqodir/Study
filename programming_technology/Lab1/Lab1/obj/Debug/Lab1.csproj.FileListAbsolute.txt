@@ -1,6 +1,0 @@
-C:\Users\MQ\Desktop\uchyoba\с#\Lab1\Lab1\bin\Debug\Lab1.exe.config
-C:\Users\MQ\Desktop\uchyoba\с#\Lab1\Lab1\bin\Debug\Lab1.exe
-C:\Users\MQ\Desktop\uchyoba\с#\Lab1\Lab1\bin\Debug\Lab1.pdb
-C:\Users\MQ\Desktop\uchyoba\с#\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
-C:\Users\MQ\Desktop\uchyoba\с#\Lab1\Lab1\obj\Debug\Lab1.exe
-C:\Users\MQ\Desktop\uchyoba\с#\Lab1\Lab1\obj\Debug\Lab1.pdb
